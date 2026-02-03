@@ -36,7 +36,7 @@ To-do-list/
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 ## 🚀 How to Run Locally
 
 If you want to run this project on your own machine:
