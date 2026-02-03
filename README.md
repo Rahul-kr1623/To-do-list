@@ -36,14 +36,14 @@ To-do-list/
 ├── style.css
 ├── script.js
 └── README.md
-```
+````
 ## 🚀 How to Run Locally
 
 If you want to run this project on your own machine:
 
 1.  **Clone the repository**
     ```bash
-   git clone [https://github.com/Rahul-kr1623/To-do-list.git](https://github.com/Rahul-kr1623/To-do-list.git)
+    git clone [https://github.com/Rahul-kr1623/To-do-list.git](https://github.com/Rahul-kr1623/To-do-list.git)
     ```
 2.  **Navigate to the project directory**
     ```bash
@@ -62,4 +62,3 @@ If you want to run this project on your own machine:
 
 ---
 *Made with ❤️ and code.*
-````
