@@ -11,7 +11,7 @@ function addTask() {
     }
     else {
         const li = document.createElement("li");
-        li.innerHTML = taskText;
+        li.textContent = taskText;
         listContainer.appendChild(li);
         let span = document.createElement("span");
         span.innerHTML = "\u00d7"; // Unicode for multiplication sign (×)
